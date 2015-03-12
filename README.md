@@ -20,8 +20,7 @@ Simple package to convert any number in any base to another base
     baseToBase('0010', 2, 10) // 10
 
     // number 2 on hex base to binary base
-    baseToBase(2, 16, 2) // 10
-
+    baseToBase(2, 16, 2) // '0010'
 
 ## Author
 
