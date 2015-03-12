@@ -1,6 +1,6 @@
 {
   "name": "base-to-base",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple package to convert any number to hex, dec or binary bases",
   "main": "./lib/base-to-base.js",
   "dependencies": {},
